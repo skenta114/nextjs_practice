@@ -24,6 +24,27 @@
     font-size: 1.2rem;
     line-height: 1.5;
 }
+.bodyFt{
+    font-size: 18px;
+    line-height: 1.5;
+}
+
+.bodyFc {
+    font-size: 15px;
+    color: #666;
+}
+
+.bodyFc2 {
+    font-size: 20px;
+    color: red;
+    font-weight: bold;
+}
+
+.bodyFc3 {
+    font-size: 18px;
+    line-height: 1.5;
+    color: rgb(255, 150, 63);
+}
 
 .borderCircle {
     border-radius: 9999px;

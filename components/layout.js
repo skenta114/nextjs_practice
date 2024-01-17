@@ -4,8 +4,8 @@ import styles from './layout.module.css';
 import utilStyles from '../styles/utils.module.css';
 import Link from 'next/link';
 
-const name = 'Kenta';
-export const siteTitle = 'Next.js YouVote';
+const name = 'けんた';
+export const siteTitle = '初めてのNext.sj';
 
 export default function Layout({ children, home }) {
   return (
