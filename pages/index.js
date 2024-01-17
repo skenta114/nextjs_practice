@@ -26,7 +26,7 @@ export default function Home({allPostsData}) {
       <section className={`${utilStyles.bodyFt}`}>
         <p>
           初めてのNext.js。
-          以前から気になっていたのですが時間がなくてなかなか手が出せてなかったのですが、
+          以前から気になっていたのですが時間がなくてなかなか手が出せてなかった泣
           一段落ついてやっと触れました！
             <span className={`${utilStyles.bodyFc}`}>
              今もテスト前なんだけど...
